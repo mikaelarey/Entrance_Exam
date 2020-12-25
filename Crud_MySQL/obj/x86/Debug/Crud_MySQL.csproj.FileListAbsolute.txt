@@ -1,0 +1,11 @@
+C:\Repo\Crud_MySQL\Crud_MySQL\bin\Debug\Crud_MySQL.exe
+C:\Repo\Crud_MySQL\Crud_MySQL\bin\Debug\Crud_MySQL.pdb
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.Properties.Resources.resources
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.csproj.GenerateResource.Cache
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.exe
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.pdb
+C:\Repo\Crud_MySQL\Crud_MySQL\bin\Debug\Crud_MySQL.exe.config
+C:\Repo\Crud_MySQL\Crud_MySQL\bin\Debug\MySql.Data.dll
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.GUI.Main.resources
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.GUI.LibrarySystem.resources
+C:\Repo\Crud_MySQL\Crud_MySQL\obj\x86\Debug\Crud_MySQL.GUI.NewConnection.resources
