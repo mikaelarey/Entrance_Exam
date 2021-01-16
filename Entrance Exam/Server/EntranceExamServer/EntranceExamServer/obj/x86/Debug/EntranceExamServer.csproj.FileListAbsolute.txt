@@ -1,0 +1,9 @@
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\bin\Debug\EntranceExamServer.exe
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\bin\Debug\EntranceExamServer.pdb
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.Properties.Resources.resources
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.csproj.GenerateResource.Cache
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.exe
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.pdb
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.Forms.Server.resources
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\bin\Debug\EntranceExamServer.exe.config
+C:\Users\Rey\Desktop\EntranceExamServer\EntranceExamServer\obj\x86\Debug\EntranceExamServer.Forms.Connection.resources

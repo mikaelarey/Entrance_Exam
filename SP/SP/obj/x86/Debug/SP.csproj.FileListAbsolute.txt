@@ -1,0 +1,8 @@
+C:\Users\Rey\Desktop\SP\SP\bin\Debug\SP.exe
+C:\Users\Rey\Desktop\SP\SP\bin\Debug\SP.pdb
+C:\Users\Rey\Desktop\SP\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\Rey\Desktop\SP\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\Rey\Desktop\SP\SP\obj\x86\Debug\SP.exe
+C:\Users\Rey\Desktop\SP\SP\obj\x86\Debug\SP.pdb
+C:\Users\Rey\Desktop\SP\SP\obj\x86\Debug\SP.Forms.MainForm.resources
+C:\Users\Rey\Desktop\SP\SP\bin\Debug\SP.exe.config
